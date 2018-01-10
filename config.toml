@@ -1,0 +1,12 @@
+baseURL = "https://putablockchainonit.com/"
+languageCode = "en-us"
+title = "Put a Blockchain on it!"
+theme = "ananke"
+
+googleAnalytics = "UA-60152626-5"
+
+[params]
+  description = "Put a blockchain on it!"
+  favicon = ""
+  background_color_class = "bg-black"
+  featured_image = "/images/chain.jpg"
