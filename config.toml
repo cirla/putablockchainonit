@@ -1,4 +1,4 @@
-baseURL = "http://putablockchainonit.com/"
+baseURL = "https://putablockchainonit.com/"
 languageCode = "en-us"
 title = "Put a Blockchain on it!"
 theme = "ananke"
