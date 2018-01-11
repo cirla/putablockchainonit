@@ -10,7 +10,7 @@ And we put blockchains on things.
 Today, we're going to go to [a company that sells Iced
 Tea](https://www.bloomberg.com/news/articles/2017-12-21/crypto-craze-sees-long-island-iced-tea-rename-as-long-blockchain).
 
-Nothing has blockchains on it, but you what we're gonna do?
+Nothing has blockchains on it, but you know what we're gonna do?
 We're gonna put blockchains on things.
 Spruce it up.
 Make it pretty!
@@ -22,7 +22,7 @@ Did your hedge fund manager see this company before? I didn't.
 [Now there's a blockchain](https://www.bloomberg.com/news/articles/2018-01-09/kodak-stock-surges-after-announcing-coin-to-join-crypto-craze).
 Its stock price is flying.
 
-Did you miss out on becoming a Bitcoin millionaire? Create your own cryptocurrency!
+Did you miss out on becoming a Bitcoin ~~m~~billionaire? Create your own cryptocurrency!
 Send ripples through the financial industry by maintaning centralized control of your own private blockchain.
 Give them out to friends and insiders for fun and profit!
 Put a blockchain on it!
