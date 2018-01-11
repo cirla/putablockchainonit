@@ -33,4 +33,4 @@ Put a blockchain on it!
 
 # What are you waiting for? Put a blockchain on it!
 
-I'm putting a blockchain on a blockchain.
+I'm putting a blockchain on a blockchain. See you on the moon!
